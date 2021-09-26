@@ -1,0 +1,22 @@
+.commentBox{
+    background-color:white;
+width:70%;
+border-radius: 5px;
+padding:0 5px;
+line-height: 1.2em;
+margin-bottom:5px;
+}
+.cdesc{
+    padding-bottom:3px;
+    border-bottom:1px solid rgb(170, 170, 170);
+}
+.cbuttons{
+    font-size:13px;
+    color:blue;
+}
+.cbuttons span{
+    cursor:pointer;
+}
+.cbuttons span:last-child{
+    margin-left:20px;
+}
